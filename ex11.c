@@ -31,6 +31,7 @@ int main(){
 
     // free allocated memory
     free(a);
+    // Small change for git
 
     return 0;
 }
